@@ -1,0 +1,47 @@
+{
+    "info":[
+        {
+            "capitulo":"I",
+            "numero": 1,
+            "titulo": "Enfermedades infecciosas y parasitarias",
+            "inicio": "A00",
+            "fin": "B99"
+        }
+    ],
+    "subtitulos": [
+        {
+            "titulo": "Enfermedades infecciosas  intestinales",
+            "inicio": "AO1",
+            "fin": "A09"
+        }
+    ]
+}
+
+
+
+"Tuberculosis" "A15" "A19"
+"Zoonosis" "A20" "A28"
+"Otras infecciones bacterianas" "A30" "49"
+"Enfermedades infecciosas de transmisión sexual" "A50" "A64"
+"Enfermedades infecciosas transmitidas por espiroquetas" "A65" "A69"
+"Enfermedades infecciosas transmitidas por Chlamydias" "A70" "A74"
+"Enfermedades infecciosas transmitidas por Rickettsias" "A75" "A79"
+"Infecciones víricas del sistema nervioso central producidas por virus" "A80" "A89"
+"Enfermedades víricas transmitidas por artrópodos y fiebre hemorrágica" "A90" "A99"
+"Enfermedades víricas de la piel y de las mucosas" "B00" "B09"
+"Hepatitis vírica" "B15" "B19"
+"Enfermedades producidas por el HIV" "B20" "B24"
+"Otras enfermedades víricas" "B25" "B34"
+"Micosis" "B35" "B49"
+"Enfermedades producidas por protozoos" "B50" "B64"
+"Helmintiasis" "B65" "B83"
+"Pediculosis y acariosis" "B85" "B89"
+"Secuelas de enfermedades infecciosas o parasitarias" "B90" "B94"
+"Otras enfermedades por bacteria, virus o parásitos no clasificados en otra parte" "B95" "B97"
+"Otras enfermedades infecciosas y las no especificadas" "B98" "B99"
+
+{
+    "titulo": "%s",
+    "inicio": "%s",
+    "fin": "%s"
+},

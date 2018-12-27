@@ -2,95 +2,103 @@
 	"A": [
 		{
 			"codigo": "A00",
-			"descripcion": "Cólera"
-		},
-		{
-			"codigo": "A000",
-			"descripcion": "Colera debido a vibrio cholerae o1, biotipo cholerae"
-		},
-		{
-			"codigo": "A001",
-			"descripcion": "Colera debido a vibrio cholerae o1, biotipo el tor"
-		},
-		{
-			"codigo": "A009",
-			"descripcion": "Colera no especificado"
+			"descripcion": "Cólera",
+			"sub":[
+				{
+					"codigo": "A000",
+					"descripcion": "Colera debido a vibrio cholerae o1, biotipo cholerae"
+				},
+				{
+					"codigo": "A001",
+					"descripcion": "Colera debido a vibrio cholerae o1, biotipo el tor"
+				},
+				{
+					"codigo": "A009",
+					"descripcion": "Colera no especificado"
+				}
+			]
 		},
 		{
 			"codigo": "A01",
-			"descripcion": "Fiebres tifoidea y paratifoidea"
-		},
-		{
-			"codigo": "A010",
-			"descripcion": "Fiebre tifoidea"
-		},
-		{
-			"codigo": "A011",
-			"descripcion": "Fiebre paratifoidea a"
-		},
-		{
-			"codigo": "A012",
-			"descripcion": "Fiebre paratifoidea b"
-		},
-		{
-			"codigo": "A013",
-			"descripcion": "Fiebre paratifoidea c"
-		},
-		{
-			"codigo": "A014",
-			"descripcion": "Fiebre paratifoidea, no especificada"
+			"descripcion": "Fiebres tifoidea y paratifoidea",
+			"sub":[
+				{
+					"codigo": "A010",
+					"descripcion": "Fiebre tifoidea"
+				},
+				{
+					"codigo": "A011",
+					"descripcion": "Fiebre paratifoidea a"
+				},
+				{
+					"codigo": "A012",
+					"descripcion": "Fiebre paratifoidea b"
+				},
+				{
+					"codigo": "A013",
+					"descripcion": "Fiebre paratifoidea c"
+				},
+				{
+					"codigo": "A014",
+					"descripcion": "Fiebre paratifoidea, no especificada"
+				}
+			]
 		},
 		{
 			"codigo": "A02",
-			"descripcion": "Otras infecciones debidas a Salmonella"
-		},
-		{
-			"codigo": "A020",
-			"descripcion": "Enteritis debida a salmonella"
-		},
-		{
-			"codigo": "A021",
-			"descripcion": "Septicemia debida a salmonella"
-		},
-		{
-			"codigo": "A022",
-			"descripcion": "Infecciones localizadas debida a salmonella"
-		},
-		{
-			"codigo": "A028",
-			"descripcion": "Otras infecciones especificadas como debidas a salmonella"
-		},
-		{
-			"codigo": "A029",
-			"descripcion": "Infeccion debida a salmonella no especificada"
+			"descripcion": "Otras infecciones debidas a Salmonella",
+			"sub":[
+				{
+					"codigo": "A020",
+					"descripcion": "Enteritis debida a salmonella"
+				},
+				{
+					"codigo": "A021",
+					"descripcion": "Septicemia debida a salmonella"
+				},
+				{
+					"codigo": "A022",
+					"descripcion": "Infecciones localizadas debida a salmonella"
+				},
+				{
+					"codigo": "A028",
+					"descripcion": "Otras infecciones especificadas como debidas a salmonella"
+				},
+				{
+					"codigo": "A029",
+					"descripcion": "Infeccion debida a salmonella no especificada"
+				}
+			]
 		},
 		{
 			"codigo": "A03",
-			"descripcion": "Shigelosis"
-		},
-		{
-			"codigo": "A030",
-			"descripcion": "Shigelosis debida a shigella dysenteriae"
-		},
-		{
-			"codigo": "A031",
-			"descripcion": "Shigelosis debida a shigella flexneri"
-		},
-		{
-			"codigo": "A032",
-			"descripcion": "Shigelosis debida a shigella boydii"
-		},
-		{
-			"codigo": "A033",
-			"descripcion": "Shigelosis debida a shigella sonnei"
-		},
-		{
-			"codigo": "A038",
-			"descripcion": "Otras shigelosis"
-		},
-		{
-			"codigo": "A039",
-			"descripcion": "Shigelosis de tipo no especificado"
+			"descripcion": "Shigelosis",
+			"sub":[
+				{
+					"codigo": "A030",
+					"descripcion": "Shigelosis debida a shigella dysenteriae"
+				},
+				{
+					"codigo": "A031",
+					"descripcion": "Shigelosis debida a shigella flexneri"
+				},
+				{
+					"codigo": "A032",
+					"descripcion": "Shigelosis debida a shigella boydii"
+				},
+				{
+					"codigo": "A033",
+					"descripcion": "Shigelosis debida a shigella sonnei"
+				},
+				{
+					"codigo": "A038",
+					"descripcion": "Otras shigelosis"
+				},
+				{
+					"codigo": "A039",
+					"descripcion": "Shigelosis de tipo no especificado"
+				}
+			]
 		},
 		{
 			"codigo": "A04",
@@ -1830,7 +1838,7 @@
 		}
 	],
 	"B": [
-		{ //ANCHOR B
+		{
 			"codigo": "B00",
 			"descripcion": "Infecciones herpética [herpes simple]"
 		},
@@ -3628,7 +3636,7 @@
 		}
 	],
 	"C": [
-		{ //ANCHOR C
+		{
 			"codigo": "C00",
 			"descripcion": "Tumor maligno del labio"
 		},
@@ -5710,7 +5718,7 @@
 		}
 	],
 	"D": [
-		{ //ANCHOR D
+		{
 			"codigo": "D00",
 			"descripcion": "Carcinoma in situ de la cavidad bucal, del esofago y del estomago"
 		},
@@ -7804,7 +7812,7 @@
 		}
 	],
 	"E": [
-		{ //ANCHOR E
+		{
 			"codigo": "E00",
 			"descripcion": "Sindrome congenito de deficiencia de yodo"
 		},
@@ -9450,7 +9458,7 @@
 		}
 	],
 	"F": [
-		{ //ANCHOR F
+		{
 			"codigo": "F00",
 			"descripcion": "Demencia en la enfermedad de alzheimer"
 		},
@@ -11320,7 +11328,7 @@
 		}
 	],
 	"G": [
-		{ //ANCHOR G
+		{
 			"codigo": "G00",
 			"descripcion": "Meningitis bacteriana no clasificada en otra parte"
 		},
@@ -12866,7 +12874,7 @@
 		}
 	],
 	"H": [
-		{ //ANCHOR H
+		{
 			"codigo": "H00",
 			"descripcion": "Orzuelo y calacio"
 		},
@@ -14636,7 +14644,7 @@
 		}
 	],
 	"I": [
-		{ //ANCHOR I
+		{
 			"codigo": "I00",
 			"descripcion": "Fiebre reumatica sin mencion de complicacion cardiaca"
 		},
@@ -16458,7 +16466,7 @@
 		}
 	],
 	"J": [
-		{ //ANCHOR J
+		{
 			"codigo": "J00",
 			"descripcion": "Rinofaringitis aguda"
 		},
@@ -17564,7 +17572,7 @@
 		}
 	],
 	"K": [
-		{ //ANCHOR K
+		{
 			"codigo": "K00",
 			"descripcion": "Trastornos del desarrollo y de la erupcion de los dientes"
 		},
@@ -19482,7 +19490,7 @@
 		}
 	],
 	"L": [
-		{ //ANCHOR L
+		{
 			"codigo": "L00",
 			"descripcion": "Sindrome estafilococico de la piel escaldada"
 		},
@@ -21060,7 +21068,7 @@
 		}
 	],
 	"M": [
-		{ //ANCHOR M
+		{
 			"codigo": "M00",
 			"descripcion": "Artritis piogena"
 		},
@@ -23550,7 +23558,7 @@
 		}
 	],
 	"N": [
-		{ //ANCHOR N
+		{
 			"codigo": "N00",
 			"descripcion": "Sindrome nefritico agudo"
 		},
@@ -25556,7 +25564,7 @@
 		}
 	],
 	"O": [
-		{ //ANCHOR O
+		{
 			"codigo": "O00",
 			"descripcion": "Embarazo ectopico"
 		},
@@ -27510,7 +27518,7 @@
 		}
 	],
 	"P": [
-		{ //ANCHOR P
+		{
 			"codigo": "P00",
 			"descripcion": "Feto y recien nacido afectados por condiciones de la madre no necesariamente relacionadas con el embarazo presente"
 		},
@@ -29056,7 +29064,7 @@
 		}
 	],
 	"Q": [
-		{ //ANCHOR Q
+		{
 			"codigo": "Q00",
 			"descripcion": "Anencefalia y malformaciones congenitas similares"
 		},
@@ -31878,7 +31886,7 @@
 		}
 	],
 	"R": [
-		{ //ANCHOR R
+		{
 			"codigo": "R00",
 			"descripcion": "Anormalidades del latido cardiaco"
 		},
@@ -33424,7 +33432,7 @@
 		}
 	],
 	"S": [
-		{ //ANCHOR S
+		{
 			"codigo": "S00",
 			"descripcion": "Traumatismo superficial de la cabeza"
 		},
@@ -36202,7 +36210,7 @@
 		}
 	],
 	"T": [
-		{ //ANCHOR T
+		{
 			"codigo": "T00",
 			"descripcion": "Traumatismos superficiales que afectan multiples regiones del cuerpo"
 		},
@@ -39256,7 +39264,7 @@
 		}
 	],
 	"U": [
-		{ //ANCHOR U
+		{
 			"codigo": "U04",
 			"descripcion": "Sindrome respiratorio agudo severo (SARS)"
 		},
@@ -39298,7 +39306,7 @@
 		}
 	],
 	"V": [
-		{ //ANCHOR V
+		{
 			"codigo": "V01",
 			"descripcion": "Peaton lesionado por colision con vehiculo de pedal"
 		},
@@ -42788,7 +42796,7 @@
 		}
 	],
 	"W": [
-		{ //ANCHOR W
+		{
 			"codigo": "W00",
 			"descripcion": "Caida en el mismo nivel por hielo o nieve"
 		},
@@ -46618,7 +46626,7 @@
 		}
 	],
 	"X": [
-		{ //ANCHOR X
+		{
 			"codigo": "X00",
 			"descripcion": "Exposicion a fuego no controlado en edificio u otra construccion"
 		},
@@ -50888,7 +50896,7 @@
 		}
 	],
 	"Y": [
-		{ //ANCHOR Y
+		{
 			"codigo": "Y00",
 			"descripcion": "Agresion con objeto romo o sin filo"
 		},
@@ -54030,7 +54038,7 @@
 		}
 	],
 	"Z": [
-		{ //ANCHOR Z
+		{
 			"codigo": "Z00",
 			"descripcion": "Examen general e investigacion de personas sin quejas o sin diagnostico informado"
 		},

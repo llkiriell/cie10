@@ -1,0 +1,95 @@
+{
+    "capitulo":"II",
+    "numero": 2,
+    "titulo": "Neoplasias",
+    "inicio": "C00",
+    "fin": "D44",
+    "subcapitulos":17,
+    "subcapitulo": [
+        {
+            "titulo": "Tumores malignos del labio, de la cavidad bucal y de la faringe",
+            "inicio": "C00",
+            "fin": "C14"
+        },
+        {
+            "titulo": "Tumores malignos de los órganos digestivos",
+            "inicio": "C15",
+            "fin": "C26"
+        },
+        {
+            "titulo": "Tumores malignos del sistema respiratorio y de órganos anexos",
+            "inicio": "C30",
+            "fin": "C39"
+        },
+        {
+            "titulo": "Tumores malignos de otros huesos y cartílagos",
+            "inicio": "C40",
+            "fin": "C41"
+        },
+        {
+            "titulo": "Melanoma y otros tumores malignos de la piel",
+            "inicio": "C43",
+            "fin": "C44"
+        },
+        {
+            "titulo": "Tumores malignos de los tejidos mesoteliales y de los tejidos blandos",
+            "inicio": "C45",
+            "fin": "C49"
+        },
+        {
+            "titulo": "Tumor maligno de la mama",
+            "inicio": "C50",
+            "fin": "C50"
+        },
+        {
+            "titulo": "Tumores malignos de los órganos sexuales femeninos",
+            "inicio": "C51",
+            "fin": "C58"
+        },
+        {
+            "titulo": "Tumores malignos de los órganos sexuales masculinos",
+            "inicio": "C60",
+            "fin": "C63"
+        },
+        {
+            "titulo": "Tumores malignos del sistema urinario",
+            "inicio": "C64",
+            "fin": "C68"
+        },
+        {
+            "titulo": "Tumores malignos del ojo y sistema nervioso",
+            "inicio": "C69",
+            "fin": "C72"
+        },
+        {
+            "titulo": "Tumores malignos de la glándula tiroides y de otras gándulas endocrinas",
+            "inicio": "C73",
+            "fin": "C75"
+        },
+        {
+            "titulo": "Tumores malignos de sitios mal definidos, secundarios y de sitios no especificafos",
+            "inicio": "C76",
+            "fin": "C80"
+        },
+        {
+            "titulo": "Tumores malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines",
+            "inicio": "C81",
+            "fin": "C96"
+        },
+        {
+            "titulo": "Carcinomas in situ",
+            "inicio": "D00",
+            "fin": "D09"
+        },
+        {
+            "titulo": "Tumores benignos",
+            "inicio": "D10",
+            "fin": "D36"
+        },
+        {
+            "titulo": "Tumores de comportamiento incierto o desconocido",
+            "inicio": "D37",
+            "fin": "D48"
+        }
+    ]
+}

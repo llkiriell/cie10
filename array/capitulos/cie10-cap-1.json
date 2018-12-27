@@ -1,0 +1,115 @@
+{
+    "capitulo":"I",
+    "numero": 1,
+    "titulo": "Enfermedades infecciosas y parasitarias",
+    "inicio": "A00",
+    "fin": "B99",
+    "subcapitulos":21,
+    "subcapitulo": [
+        {
+            "titulo": "Enfermedades infecciosas intestinales",
+            "inicio": "AO1",
+            "fin": "A09"
+        },
+        {
+            "titulo": "Tuberculosis",
+            "inicio": "A15",
+            "fin": "A19"
+        },
+        {
+            "titulo": "Zoonosis",
+            "inicio": "A20",
+            "fin": "A28"
+        },
+        {
+            "titulo": "Otras infecciones bacterianas",
+            "inicio": "A30",
+            "fin": "A49"
+        },
+        {
+            "titulo": "Enfermedades infecciosas de transmisión sexual",
+            "inicio": "A50",
+            "fin": "A64"
+        },
+        {
+            "titulo": "Enfermedades infecciosas transmitidas por espiroquetas",
+            "inicio": "A65",
+            "fin": "A69"
+        },
+        {
+            "titulo": "Enfermedades infecciosas transmitidas por Chlamydias",
+            "inicio": "A70",
+            "fin": "A74"
+        },
+        {
+            "titulo": "Enfermedades infecciosas transmitidas por Rickettsias",
+            "inicio": "A75",
+            "fin": "A79"
+        },
+        {
+            "titulo": "Infecciones víricas del sistema nervioso central producidas por virus",
+            "inicio": "A80",
+            "fin": "A89"
+        },
+        {
+            "titulo": "Enfermedades víricas transmitidas por artrópodos y fiebre hemorrágica",
+            "inicio": "A90",
+            "fin": "A99"
+        },
+        {
+            "titulo": "Enfermedades víricas de la piel y de las mucosas",
+            "inicio": "B00",
+            "fin": "B09"
+        },
+        {
+            "titulo": "Hepatitis vírica",
+            "inicio": "B15",
+            "fin": "B19"
+        },
+        {
+            "titulo": "Enfermedades producidas por el HIV",
+            "inicio": "B20",
+            "fin": "B24"
+        },
+        {
+            "titulo": "Otras enfermedades víricas",
+            "inicio": "B25",
+            "fin": "B34"
+        },
+        {
+            "titulo": "Micosis",
+            "inicio": "B35",
+            "fin": "B49"
+        },
+        {
+            "titulo": "Enfermedades producidas por protozoos",
+            "inicio": "B50",
+            "fin": "B64"
+        },
+        {
+            "titulo": "Helmintiasis",
+            "inicio": "B65",
+            "fin": "B83"
+        },
+        {
+            "titulo": "Pediculosis y acariosis",
+            "inicio": "B85",
+            "fin": "B89"
+        },
+        {
+            "titulo": "Secuelas de enfermedades infecciosas o parasitarias",
+            "inicio": "B90",
+            "fin": "B94"
+        },
+        {
+            "titulo": "Otras enfermedades por bacteria, virus o parásitos no clasificados en otra parte",
+            "inicio": "B95",
+            "fin": "B97"
+        },
+        {
+            "titulo": "Otras enfermedades infecciosas y las no especificadas",
+            "inicio": "B98",
+            "fin": "B99"
+        }
+    ]
+}

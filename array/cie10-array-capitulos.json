@@ -1,0 +1,156 @@
+[
+    {
+        "capitulo": "I",
+        "numero": 1,
+        "titulo": "Enfermedades infecciosas y parasitarias",
+        "inicio": "A00",
+        "fin": "B99"
+    },
+    {
+        "capitulo": "II",
+        "numero": 2,
+        "titulo": "Neoplasias",
+        "inicio": "C00",
+        "fin": "D44"
+    },
+    {
+        "capitulo": "III",
+        "numero": 3,
+        "titulo": "Enfermedades de la sangre y de los órganos hematopoyeticos y otros trastornos que afectan el mecanismo de la inmunidad",
+        "inicio": "D50",
+        "fin": "D89"
+    },
+    {
+        "capitulo": "IV",
+        "numero": 4,
+        "titulo": "Enfermedades endocrinas, nutricionales y metabólicas",
+        "inicio": "E00",
+        "fin": "E90"
+    },
+    {
+        "capitulo": "V",
+        "numero": 5,
+        "titulo": "Trastornos mentales y del comportamiento",
+        "inicio": "F00",
+        "fin": "F99"
+    },
+    {
+        "capitulo": "VI",
+        "numero": 6,
+        "titulo": "Enfermedades del sistema nervioso",
+        "inicio": "G00",
+        "fin": "G99"
+    },
+    {
+        "capitulo": "VII",
+        "numero": 7,
+        "titulo": "Enfermedades del ojo y sus anexos",
+        "inicio": "H00",
+        "fin": "H59"
+    },
+    {
+        "capitulo": "VIII",
+        "numero": 8,
+        "titulo": "Enfermedades del oído y de la apófisis mastoides",
+        "inicio": "H60",
+        "fin": "H95"
+    },
+    {
+        "capitulo": "IX",
+        "numero": 9,
+        "titulo": "Enfermedades del sistema cardiocirculatorio",
+        "inicio": "I00",
+        "fin": "I99"
+    },
+    {
+        "capitulo": "X",
+        "numero": 10,
+        "titulo": "Enfermedades del sistema respiratorio",
+        "inicio": "J00",
+        "fin": "J99"
+    },
+    {
+        "capitulo": "XI",
+        "numero": 11,
+        "titulo": "Enfermedades del aparato digestivo",
+        "inicio": "K00",
+        "fin": "K99"
+    },
+    {
+        "capitulo": "XII",
+        "numero": 12,
+        "titulo": "Enfermedades de la piel y el tejido subcutáneo",
+        "inicio": "LOO",
+        "fin": "L99"
+    },
+    {
+        "capitulo": "XIII",
+        "numero": 13,
+        "titulo": "Enfermedades del sistema osteomuscular y del tejido conjuntivo",
+        "inicio": "M00",
+        "fin": "M99"
+    },
+    {
+        "capitulo": "XIV",
+        "numero": 14,
+        "titulo": "Enfermedades del aparato genitourinario",
+        "inicio": "N00",
+        "fin": "N98"
+    },
+    {
+        "capitulo": "XV",
+        "numero": 15,
+        "titulo": "Embarazo, parto y puerperio",
+        "inicio": "O00",
+        "fin": "O99"
+    },
+    {
+        "capitulo": "XVI",
+        "numero": 16,
+        "titulo": "Enfermedades del feto y recién nacido",
+        "inicio": "P00",
+        "fin": "P96"
+    },
+    {
+        "capitulo": "XVII",
+        "numero": 17,
+        "titulo": "Malformaciones congénitas, deformidades y anomalías cromosómicas",
+        "inicio": "Q00",
+        "fin": "Q99"
+    },
+    {
+        "capitulo": "XVIII",
+        "numero": 18,
+        "titulo": "Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",
+        "inicio": "R00",
+        "fin": "R99"
+    },
+    {
+        "capitulo": "XIX",
+        "numero": 19,
+        "titulo": "Lesiones, heridas, intoxicaciones y otros factores externos",
+        "inicio": "S00",
+        "fin": "T98"
+    },
+    {
+        "capitulo": "XX",
+        "numero": 20,
+        "titulo": "Causas extremas de morbilidad y de mortalidad",
+        "inicio": "V00",
+        "fin": "Y98"
+    },
+    {
+        "capitulo": "XXI",
+        "numero": 21,
+        "titulo": "Factores que influyen en el estado de salud y contacto con los servicios de salud",
+        "inicio": "Z00",
+        "fin": "Z99"
+    },
+    {
+        "capitulo": "XXII",
+        "numero": 22,
+        "titulo": "Códigos para situaciones especiales",
+        "inicio": "",
+        "fin": ""
+    }
+]
